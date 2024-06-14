@@ -1,2 +1,2 @@
-print('hello mojtaba')
-print("hello amir !")
+print('hello mojtaba khodabandehloo')
+print("hello amir entezami !")
